@@ -223,16 +223,12 @@ a.nav-link {
     height: 130px;
 }
 
-#inicio img {
-    height: 400px;
-}
-
-#inicio img :hover {
-    height: 400px;
-}
-
 .cohete {
     height: 400px;
+}
+
+.cohete :hover {
+    height: 410px;
 }
 
 #inicio p {
@@ -310,6 +306,72 @@ a.nav-link {
     font-size: 24px;
 }
 
+#formacion-academica h3 {
+    color: #6A6A6A;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#formacion-academica h4 {
+    color: #E20000;
+    font-size: 17px;
+}
+
+#formacion-academica h5 {
+    color: #6A6A6A;
+    font-size: 14px;
+}
+
+#cursos-desarrollo h2 {
+    color: #E20000;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+#cursos-desarrollo h3 {
+    color: #6A6A6A;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#cursos-desarrollo h4 {
+    color: #E20000;
+    font-size: 17px;
+}
+
+#cursos-desarrollo h5 {
+    color: #6A6A6A;
+    font-size: 14px;
+}
+
+#sobre-mi .logo{
+    height: 182px;
+}
+#idiomas .logo-idioma{
+    border-radius: 15px;
+}
+#idiomas .logo{
+    background-color: #370A6D;
+    border-radius: 15px;
+    padding: 40px 0;
+}
+#idiomas{
+    background-color: #eee;
+}
+#idiomas h2{
+    font-size: 16px;
+    font-weight: 600px;
+}
+#idiomas ul{
+    padding: 0px;
+    font-size: 14px;
+    color: #282828;
+    list-style-type: none;
+}
+#idiomas .fas{
+    font-size: 80px;
+    color: white;
+}
 
 @media (max-width: 750px) {
 
